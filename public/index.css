@@ -1,0 +1,15 @@
+/* Add CSS styles here! */
+body {
+  font-family: sans-serif;
+}
+
+.App { 
+  margin: 0 auto;
+  max-width: 400px;
+}
+.TodoForm{
+  padding-top: 20px;
+}
+.TodoList {
+  padding-top: 20px;
+}
